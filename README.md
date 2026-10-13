@@ -1,0 +1,2 @@
+This is the repo for ADV. The purpose is to learn how to use git and work as a team.
+First practice is to create new repo. Then create new branch such as TD and course. Each branch for different purpose to prevent confusing between branch.
